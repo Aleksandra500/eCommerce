@@ -7,7 +7,7 @@ This is a simple React project demonstrating basic functionality.
 ## 🚀 Getting Started
 
 Clone this repository:
-git clone git@github.com:Aleksandra500/your-repo-name.git
+git clone git@github.com:Aleksandra500/eCommerce.git
 cd your-repo-name
 
 Install dependenciesЧ
