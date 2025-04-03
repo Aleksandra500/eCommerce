@@ -1,8 +1,34 @@
+# eCommerce
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This is a simple React project demonstrating basic functionality.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Getting Started
+
+Clone this repository:
+git clone git@github.com:Aleksandra500/your-repo-name.git
+cd your-repo-name
+
+Install dependenciesЧ
+npm install
+
+Start the application:
+npm start
+
+🛠️ Technologies Used: 
+
+React
+
+JavaScript (ES6+)
+
+CSS / Tailwind CSS 
+
+
+🌟 Features:
+
+ Simple UI structure
+
+ Reusable components
+
+ State management with hooks
